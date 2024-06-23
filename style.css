@@ -1,0 +1,20 @@
+div{
+    text-align: center;
+}
+h1{
+    font-size: 5rem;
+    font-weight: 800;
+}
+p{
+    font-size: 2rem;
+}
+button{
+    background-color: blue;
+    transition: background-color 0.5;
+    width: 14rem;
+    height: 5rem;
+    color: white;
+}
+button:hover{
+    background-color: darkgreen;
+}
